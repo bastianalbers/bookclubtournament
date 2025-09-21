@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[388],{3900:(_,n,e)=>{(window.__NEXT_P=window.__NEXT_P||[]).push(["/bracket",function(){return e(3206)}])}},_=>{_.O(0,[888,583,636,593,792],()=>_(_.s=3900)),_N_E=_.O()}]);
